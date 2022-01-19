@@ -1,0 +1,140 @@
+,tags,title,id,key,name
+0,[],None,-1,None,None
+1,"['Fighter', 'Tank']",the Monkey King,62,MonkeyKing,Wukong
+2,"['Fighter', 'Assassin']",Grandmaster at Arms,24,Jax,Jax
+3,"['Mage', 'Support']",the Harbinger of Doom,9,Fiddlesticks,Fiddlesticks
+4,['Assassin'],the Demon Jester,35,Shaco,Shaco
+5,"['Fighter', 'Tank']",the Uncaged Wrath of Zaun,19,Warwick,Warwick
+6,['Marksman'],the Rebel,498,Xayah,Xayah
+7,"['Assassin', 'Fighter']",the Bestial Huntress,76,Nidalee,Nidalee
+8,"['Mage', 'Support']",Rise of the Thorns,143,Zyra,Zyra
+9,"['Fighter', 'Tank']",the Cantankerous Cavalier,240,Kled,Kled
+10,['Mage'],the Burning Vengeance,63,Brand,Brand
+11,"['Tank', 'Fighter']",the Armordillo,33,Rammus,Rammus
+12,"['Fighter', 'Tank']",the Kraken Priestess,420,Illaoi,Illaoi
+13,['Marksman'],the Daring Bombardier,42,Corki,Corki
+14,"['Support', 'Tank']",the Heart of the Freljord,201,Braum,Braum
+15,"['Fighter', 'Tank']",the Hand of Noxus,122,Darius,Darius
+16,"['Fighter', 'Assassin']",the Barbarian King,23,Tryndamere,Tryndamere
+17,['Marksman'],the Bounty Hunter,21,MissFortune,Miss Fortune
+18,"['Fighter', 'Tank']",Shepherd of Souls,83,Yorick,Yorick
+19,"['Mage', 'Assassin']",the Magus Ascendant,101,Xerath,Xerath
+20,['Marksman'],the Battle Mistress,15,Sivir,Sivir
+21,"['Fighter', 'Assassin']",the Exile,92,Riven,Riven
+22,"['Mage', 'Support']",the Lady of Clockwork,61,Orianna,Orianna
+23,['Fighter'],the Saltwater Scourge,41,Gangplank,Gangplank
+24,"['Tank', 'Fighter']",Shard of the Monolith,54,Malphite,Malphite
+25,"['Tank', 'Fighter']",Keeper of the Hammer,78,Poppy,Poppy
+26,['Mage'],the Deathsinger,30,Karthus,Karthus
+27,"['Fighter', 'Marksman']",the Defender of Tomorrow,126,Jayce,Jayce
+28,"['Support', 'Fighter']",the Yeti Rider,20,Nunu,Nunu
+29,"['Fighter', 'Tank']",the Troll King,48,Trundle,Trundle
+30,['Marksman'],the Outlaw,104,Graves,Graves
+31,"['Mage', 'Support']",Fallen Angel,25,Morgana,Morgana
+32,"['Fighter', 'Tank']",the Missing Link,150,Gnar,Gnar
+33,"['Mage', 'Support']",the Lady of Luminosity,99,Lux,Lux
+34,"['Fighter', 'Tank']",the Half-Dragon,102,Shyvana,Shyvana
+35,"['Fighter', 'Tank']",the Butcher of the Sands,58,Renekton,Renekton
+36,"['Fighter', 'Assassin']",the Grand Duelist,114,Fiora,Fiora
+37,['Marksman'],the Loose Cannon,222,Jinx,Jinx
+38,['Marksman'],the Spear of Vengeance,429,Kalista,Kalista
+39,"['Assassin', 'Fighter']",the Tidal Trickster,105,Fizz,Fizz
+40,"['Assassin', 'Mage']",the Void Walker,38,Kassadin,Kassadin
+41,"['Support', 'Mage']",Maven of the Strings,37,Sona,Sona
+42,"['Fighter', 'Assassin']",the Will of the Blades,39,Irelia,Irelia
+43,['Mage'],the Machine Herald,112,Viktor,Viktor
+44,['Support'],The Charmer,497,Rakan,Rakan
+45,['Marksman'],The Eternal Hunters,203,Kindred,Kindred
+46,['Mage'],the Serpent's Embrace,69,Cassiopeia,Cassiopeia
+47,"['Tank', 'Mage']",the Twisted Treant,57,Maokai,Maokai
+48,"['Tank', 'Fighter']",The Fire below the Mountain,516,Ornn,Ornn
+49,"['Support', 'Fighter']",the Chain Warden,412,Thresh,Thresh
+50,"['Fighter', 'Support']",The Judicator,10,Kayle,Kayle
+51,"['Fighter', 'Tank']",the Shadow of War,120,Hecarim,Hecarim
+52,"['Assassin', 'Fighter']",the Voidreaver,121,Khazix,Kha'Zix
+53,"['Fighter', 'Tank']",the Berserker,2,Olaf,Olaf
+54,['Mage'],the Hexplosives Expert,115,Ziggs,Ziggs
+55,"['Mage', 'Support']",the Dark Sovereign,134,Syndra,Syndra
+56,"['Fighter', 'Tank']",the Madman of Zaun,36,DrMundo,Dr. Mundo
+57,"['Mage', 'Support']",the Enlightened One,43,Karma,Karma
+58,['Mage'],the Dark Child,1,Annie,Annie
+59,['Assassin'],the Fist of Shadow,84,Akali,Akali
+60,"['Fighter', 'Tank']",the Thunder's Roar,106,Volibear,Volibear
+61,"['Fighter', 'Assassin']",the Unforgiven,157,Yasuo,Yasuo
+62,"['Mage', 'Marksman']",the Heart of the Tempest,85,Kennen,Kennen
+63,"['Assassin', 'Fighter']",the Pridestalker,107,Rengar,Rengar
+64,"['Mage', 'Fighter']",the Rune Mage,13,Ryze,Ryze
+65,['Tank'],the Eye of Twilight,98,Shen,Shen
+66,"['Tank', 'Fighter']",the Secret Weapon,154,Zac,Zac
+67,"['Assassin', 'Fighter']",the Blade's Shadow,91,Talon,Talon
+68,"['Mage', 'Fighter']",the Master Tactician,50,Swain,Swain
+69,"['Support', 'Mage']",the Wandering Caretaker,432,Bard,Bard
+70,"['Tank', 'Fighter']",The Undead Juggernaut,14,Sion,Sion
+71,"['Marksman', 'Assassin']",the Night Hunter,67,Vayne,Vayne
+72,"['Fighter', 'Tank']",the Curator of the Sands,75,Nasus,Nasus
+73,"['Fighter', 'Assassin']",the Shadow Reaper,141,Kayn,Kayn
+74,['Mage'],the Card Master,4,TwistedFate,Twisted Fate
+75,"['Tank', 'Mage']",the Terror of the Void,31,Chogath,Cho'Gath
+76,"['Fighter', 'Tank']",the Spirit Walker,77,Udyr,Udyr
+77,['Marksman'],the Purifier,236,Lucian,Lucian
+78,"['Support', 'Mage']",the Green Father,427,Ivern,Ivern
+79,"['Tank', 'Support']",the Radiant Dawn,89,Leona,Leona
+80,['Marksman'],the Sheriff of Piltover,51,Caitlyn,Caitlyn
+81,"['Tank', 'Fighter']",Fury of the North,113,Sejuani,Sejuani
+82,"['Assassin', 'Fighter']",the Eternal Nightmare,56,Nocturne,Nocturne
+83,"['Support', 'Mage']",the Chronokeeper,26,Zilean,Zilean
+84,"['Mage', 'Marksman']",the Emperor of the Sands,268,Azir,Azir
+85,"['Fighter', 'Mage']",the Mechanized Menace,68,Rumble,Rumble
+86,"['Mage', 'Support']",the Stoneweaver,163,Taliyah,Taliyah
+87,"['Marksman', 'Assassin']",the Swift Scout,17,Teemo,Teemo
+88,"['Fighter', 'Marksman']",the Dreadnought,6,Urgot,Urgot
+89,"['Tank', 'Mage']",the Sad Mummy,32,Amumu,Amumu
+90,"['Tank', 'Mage']",the Colossus,3,Galio,Galio
+91,"['Mage', 'Support']",the Revered Inventor,74,Heimerdinger,Heimerdinger
+92,"['Mage', 'Support']",the Cryophoenix,34,Anivia,Anivia
+93,"['Marksman', 'Support']",the Frost Archer,22,Ashe,Ashe
+94,['Mage'],the Eye of the Void,161,Velkoz,Vel'Koz
+95,"['Tank', 'Fighter']",the Mad Chemist,27,Singed,Singed
+96,"['Fighter', 'Tank']",the Crystal Vanguard,72,Skarner,Skarner
+97,"['Marksman', 'Mage']",the Arrow of Retribution,110,Varus,Varus
+98,"['Marksman', 'Assassin']",the Plague Rat,29,Twitch,Twitch
+99,"['Fighter', 'Tank']",The Might of Demacia,86,Garen,Garen
+100,"['Tank', 'Fighter']",the Great Steam Golem,53,Blitzcrank,Blitzcrank
+101,"['Assassin', 'Fighter']",the Wuju Bladesman,11,MasterYi,Master Yi
+102,"['Mage', 'Fighter']",the Spider Queen,60,Elise,Elise
+103,"['Tank', 'Support']",the Minotaur,12,Alistar,Alistar
+104,"['Assassin', 'Mage']",the Sinister Blade,55,Katarina,Katarina
+105,"['Assassin', 'Fighter']",the Boy Who Shattered Time,245,Ekko,Ekko
+106,['Fighter'],the Iron Revenant,82,Mordekaiser,Mordekaiser
+107,"['Support', 'Mage']",the Fae Sorceress,117,Lulu,Lulu
+108,"['Fighter', 'Tank']",the Steel Shadow,164,Camille,Camille
+109,"['Fighter', 'Tank']",the Darkin Blade,266,Aatrox,Aatrox
+110,['Marksman'],the Glorious Executioner,119,Draven,Draven
+111,"['Support', 'Tank']",the River King,223,TahmKench,Tahm Kench
+112,"['Fighter', 'Assassin']",the Artisan of War,80,Pantheon,Pantheon
+113,"['Fighter', 'Assassin']",the Seneschal of Demacia,5,XinZhao,Xin Zhao
+114,"['Mage', 'Fighter']",The Star Forger,136,AurelionSol,Aurelion Sol
+115,"['Fighter', 'Assassin']",the Blind Monk,64,LeeSin,Lee Sin
+116,"['Support', 'Fighter']",the Shield of Valoran,44,Taric,Taric
+117,"['Mage', 'Assassin']",the Prophet of the Void,90,Malzahar,Malzahar
+118,['Mage'],the Ice Witch,127,Lissandra,Lissandra
+119,"['Fighter', 'Mage']",Scorn of the Moon,131,Diana,Diana
+120,"['Marksman', 'Assassin']",the Yordle Gunner,18,Tristana,Tristana
+121,['Fighter'],the Void Burrower,421,RekSai,Rek'Sai
+122,"['Mage', 'Tank']",the Crimson Reaper,8,Vladimir,Vladimir
+123,"['Tank', 'Fighter']",the Exemplar of Demacia,59,JarvanIV,Jarvan IV
+124,"['Support', 'Mage']",the Tidecaller,267,Nami,Nami
+125,"['Marksman', 'Assassin']",the Virtuoso,202,Jhin,Jhin
+126,"['Support', 'Mage']",the Starchild,16,Soraka,Soraka
+127,['Mage'],the Tiny Master of Evil,45,Veigar,Veigar
+128,"['Support', 'Mage']",the Storm's Fury,40,Janna,Janna
+129,"['Tank', 'Fighter']",the Titan of the Depths,111,Nautilus,Nautilus
+130,"['Assassin', 'Mage']",the Widowmaker,28,Evelynn,Evelynn
+131,"['Fighter', 'Mage']",the Rabble Rouser,79,Gragas,Gragas
+132,"['Assassin', 'Fighter']",the Master of Shadows,238,Zed,Zed
+133,"['Fighter', 'Assassin']",the Piltover Enforcer,254,Vi,Vi
+134,"['Marksman', 'Mage']",the Mouth of the Abyss,96,KogMaw,Kog'Maw
+135,"['Mage', 'Assassin']",the Nine-Tailed Fox,103,Ahri,Ahri
+136,"['Marksman', 'Fighter']",Demacia's Wings,133,Quinn,Quinn
+137,"['Assassin', 'Mage']",the Deceiver,7,Leblanc,LeBlanc
+138,"['Marksman', 'Mage']",the Prodigal Explorer,81,Ezreal,Ezreal
