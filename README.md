@@ -1,6 +1,9 @@
 # league-of-legends-analysis
 ### What is this?
 Me and @nathanmargni did a small analysis on what are the best strategies to win more games of League of Legends. Using a dataset found on Kaggle (this one: https://www.kaggle.com/datasnaek/league-of-legends). We explored the data and produced some visualizations in Tableau.
+\
+
+Here is the link of Tableau public, so that you don't have to install Tableau to play around with the graphs: https://public.tableau.com/app/profile/nathan.margni/viz/lol_analysis/Dashboard
 
 ### But, what did we discover?
 Based on the dataset, that included data for the 9th season of LoL (meaning 2018), we found out that the best strategy is to first look what are the champions with the highest win/lose ratio, and compare this choice with the pick and ban ratio. We also looked into the win rate based on the various objectives of the game.
