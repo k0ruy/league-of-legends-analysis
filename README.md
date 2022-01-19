@@ -11,6 +11,7 @@ There are 6 main objetives:
 * First Dragon
 * First Baron
 * First Inhibitor
+
 For those who already plays the game, they already know that being the first team to destroy the enemy inhibitor is a won game (even if there are some exceptions), but this may be not obvious for everyone!
 Since **First Tower** and **First Blood** are the first objectives that you can achieve as soon as the game starts, and giving you a nice *60+%* of win probability (meaning that if you are the firs one to kill an enemy champion, you gain a 10.3% probability of winning the game), we concluded that those are the ones you should aim at the start of the match. 
 Obviously once the match is starting to shift towards end-game, you and your team should try to push the enemy team in order to arrive at their inhibitors, destroy them and winning the game.
