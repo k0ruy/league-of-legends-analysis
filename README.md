@@ -1,7 +1,7 @@
 # league-of-legends-analysis
 ### What is this?
 Me and @nathanmargni did a small analysis on what are the best strategies to win more games of League of Legends. Using a dataset found on Kaggle (this one: https://www.kaggle.com/datasnaek/league-of-legends). We explored the data and produced some visualizations in Tableau.
-\
+
 
 Here is the link of Tableau public, so that you don't have to install Tableau to play around with the graphs: https://public.tableau.com/app/profile/nathan.margni/viz/lol_analysis/Dashboard
 
